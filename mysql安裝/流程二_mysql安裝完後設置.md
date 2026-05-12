@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS students_interaction (
 -- 3. 全域啟用 local_infile 設定
 ```
 SET GLOBAL local_infile = 1;
-LOAD DATA LOCAL INFILE 'C:\\Users\\Raymond\\Desktop\\xAPI-Edu-Data.csv'
+LOAD DATA LOCAL INFILE 'C:\\Users\\user\\Desktop\\xAPI-Edu-Data.csv'
 INTO TABLE students_interaction
 FIELDS TERMINATED BY ',' 
 ENCLOSED BY '"' 
