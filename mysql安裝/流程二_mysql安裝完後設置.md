@@ -7,7 +7,7 @@
 
 -- 開啟 cmd 並輸入 (加上 --local-infile 參數以允許本地檔案存取)
 ```sql
-mysql --local-infile=1 -u root -p
+"C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql" -u root -p  
 ```
 -- 1. 建立資料庫
 ```
