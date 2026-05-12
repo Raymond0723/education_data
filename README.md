@@ -38,5 +38,8 @@
 │ 
 ├── Python安裝/               # python 安裝指引
 │   └── python安裝網址
+│ 
+├── grafana安裝/               # grafana 安裝
+│   └── grafana安裝網址
 └── README.md                 # 整個專案說明文件
 ```
